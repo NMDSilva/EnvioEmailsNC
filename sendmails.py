@@ -2,7 +2,6 @@
 import win32com.client as win32
 # pip install dbfread
 from dbfread import DBF
-# table = DBF('lista.dbf', load=True)
 import os
 from pathlib import Path
 # pip install win10toast
